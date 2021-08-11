@@ -11,7 +11,7 @@ webbrowser
 os
 time
 subprocess
-from ecapture import ecapture as ec
-import wolframalpha
-import json
-import requests
+ecapture
+wolframalpha
+json
+requests
